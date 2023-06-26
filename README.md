@@ -1,24 +1,21 @@
-# board_frontend
+# Vue.js를 활용한 게시판 만들기 프로젝트😁
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
+### 📖구현한 기능
 ```
-npm run serve
+- 게시글 작성
+- 게시글 수정
+- 게시글 삭제
 ```
 
-### Compiles and minifies for production
+### 📖구현할 기능
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+- 페이징 처리
+- 로그인
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### INSTALL
+```
+npm install axios
+npm install router
+```
